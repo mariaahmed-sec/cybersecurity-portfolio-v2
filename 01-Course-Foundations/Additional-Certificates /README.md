@@ -8,6 +8,7 @@ Supplemental coursework completed through Coursera and other professional learni
 
 ### Introduction to Cybersecurity Careers
 Completed: December 2024
+https://www.coursera.org/account/accomplishments/records/Q5IOAD0VK6K1
 
 ### Introduction to Hardware and Operating Systems
 Completed: January 2025
